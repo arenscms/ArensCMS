@@ -1,2 +1,2 @@
-# arenscms
+# ArensCMS
 ArensCMS by Tebits
